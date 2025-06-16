@@ -1,3 +1,23 @@
 body {
     background-color: rgb(198, 247, 199);
 }
+
+@media screen and (max-width: 800px) {
+    div.row > div {
+        color: red;
+    }
+    
+}
+
+@media screen and (max-width: 1199px) and (min-width: 801px) {
+    div.row > div {
+        color: orange;
+    }
+    
+}
+@media screen and (max-width: 1400px) and (min-width: 1200px) {
+    div.row > div {
+        color: green
+    }
+    
+}
