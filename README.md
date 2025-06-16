@@ -1,2 +1,2 @@
-<!-- Esercitazione di bootstrap -->
-varie prove
+Esercitazione di bootstrap
+ Varie prove
