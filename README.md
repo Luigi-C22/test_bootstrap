@@ -1,2 +1,3 @@
 Esercitazione di bootstrap
- Varie prove
+
+ Varie prove + media queries
